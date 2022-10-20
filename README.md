@@ -40,8 +40,8 @@
 ![システム構成図2 1 drawio](https://user-images.githubusercontent.com/111550856/194798083-c1d69020-3c3e-441b-b831-c18243bfe69f.png)
 
 
-
-
+# 画面設計図
+[管理画面設計図](https://docs.google.com/presentation/d/11LiQ3onJrz9EIk4CIXRtZMHeSmYXCoYJ3ZZ_mBUo1Fc/edit#slide=id.p)
 
 
 
