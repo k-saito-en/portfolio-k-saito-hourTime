@@ -31,7 +31,7 @@
 
 # 一次開発全体スケジュール
 
-[こちら](https://github.com/k-saito-en/portfolio-k-saito-hourTime/issues#workspaces/hourtime-63685ca80391a20013b73b19/roadmap)（Chromeブラウザでないと表示されません🙇）
+[こちら(Zenhubガントチャート)](https://github.com/k-saito-en/portfolio-k-saito-hourTime/issues#workspaces/hourtime-63685ca80391a20013b73b19/roadmap)（Chromeブラウザでないと表示されません🙇）
 
 
 
