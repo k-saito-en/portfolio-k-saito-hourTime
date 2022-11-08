@@ -38,7 +38,7 @@
 
 
 
-# システム構成図（暫定版）
+# システム構成図（仕様の大幅変更につき変更予定）
 
 ![システム構成図2 1 drawio](https://user-images.githubusercontent.com/111550856/194798083-c1d69020-3c3e-441b-b831-c18243bfe69f.png)
 
