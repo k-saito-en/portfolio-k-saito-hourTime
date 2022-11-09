@@ -24,7 +24,7 @@
 - 作品に明確な意図が込められているか
   - 目標欄参照
 
-[ソース](https://www.sejuku.net/blog/86008)
+[参考サイト](https://www.sejuku.net/blog/86008)
 
 </details>
 
