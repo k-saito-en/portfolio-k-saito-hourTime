@@ -5,7 +5,7 @@
 </summary>
 
   - インターン先での勤怠管理、給与計算の方法が、[slack](https://slack.com/intl/ja-jp/trials?remote_promo=f4d95f0b&utm_medium=ppc&utm_source=google&utm_campaign=cd_ppc_google_jp_ja_brand_slack_single_word_selfserve&utm_term=ss_slack_single_word_._スラック_._e_._c&utm_content=617976811340&gclid=CjwKCAjwhNWZBhB_EiwAPzlhNhZ0fWW_2S90B-URfKadz1t3UPWcIWSR2BBZDrJa7dDWcvMjc30CbxoCt4AQAvD_BwE&gclsrc=aw.ds)の専用チャンネルへのコメント（例：9:00出社しました）と、スプレッドシートで従業員毎に作成した就業履歴とを照らし合わせるというものだった。  
- こちらを、専用管理画面での入力のみで　給与計算・経費精算・給与明細発行　までを済ませられるWEBアプリを開発し、普段お世話になっている担当者さんの負担を軽減したいと考えた。
+ こちらを、専用管理画面での入力のみで　給与計算・経費精算・給与明細発行、さらにはタスク管理　までを済ませられるWEBアプリを開発し、普段お世話になっている担当者さんの負担を軽減したいと考えた。
 
   - 自身初の個人プロジェクトということで、これからのエンジニア人生においていつでも戻ってこれる、参照できる「前例・型」という位置づけで、独学で調べながら開発を進める。
   
