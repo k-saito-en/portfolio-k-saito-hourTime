@@ -29,6 +29,29 @@
 </details>
 
 
+<details>
+<summary>使用技術（設計段階）
+</summary>
+- フロントエンド
+  - 言語
+    - JavaScript(HTML、CSSも視野に)
+  - フレームワーク
+    - Vue.js、Vuestic UI
+    
+- バックエンド
+  - 言語
+    - Python（Javaも検討中）
+  - フレームワーク
+    - django、Bolt(slackへの通知機能実装時に必要そう)
+    
+- インフラ
+  - AWSEC2(Linax)、nginx、GCP
+  
+ - 開発環境
+   - VScodeforMac
+
+</details>
+
 # 一次開発全体スケジュール
 
 [こちら(Zenhubガントチャート)](https://github.com/k-saito-en/portfolio-k-saito-hourTime/issues#workspaces/hourtime-63685ca80391a20013b73b19/roadmap)（Chromeブラウザでないと表示されません🙇）
