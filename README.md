@@ -73,7 +73,7 @@
 [ユーザー画面設計図](https://docs.google.com/presentation/d/14UeRYGmgPjf4JcJhtGOS6OQdGAuXuNWWYEv8fb3qXWo/edit)
 
 
-# RULE
+# ルール　これだけは守る
 
 - プッシュする際は必ずプッシュ先を確認し、プロジェクトリーダーの許可なしに「本番環境」にプッシュしないこと
 - コミットコメントは「Prefix」をつけること
@@ -85,6 +85,10 @@
   - perf: パフォーマンス向上関連
   - test: テスト関連
   - chore: ビルド、補助ツール、ライブラリ関連
+  
+- git-flow に則ったMR、ブランチ管理
+  - 詳しくはこちら
+    - [【図解】git-flow、GitHub Flowを開発現場で使い始めるためにこれだけは覚えておこう](https://atmarkit.itmedia.co.jp/ait/articles/1708/01/news015.html) 2017/08
  
 # DEMO
  
