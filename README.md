@@ -32,6 +32,7 @@
 <details>
 <summary>使用技術（設計段階）
 </summary>
+  
 - フロントエンド
   - 言語
     - JavaScript(HTML、CSSも視野に)
